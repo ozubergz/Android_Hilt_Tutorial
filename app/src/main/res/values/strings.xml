@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android_Hilt_Tutorial</string>
+    <string name="string_to_inject">The string is Strings xml resource file</string>
 </resources>
